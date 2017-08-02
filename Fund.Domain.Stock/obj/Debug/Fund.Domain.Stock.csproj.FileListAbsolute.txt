@@ -1,0 +1,16 @@
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\obj\Debug\Fund.Domain.Stock.csprojResolveAssemblyReference.cache
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Fund.Domain.Stock.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Fund.Domain.Stock.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Fund.DataLayer.Stock.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Fund.DataLayer.Stock.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\obj\Debug\Fund.Domain.Stock.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Stock\obj\Debug\Fund.Domain.Stock.pdb

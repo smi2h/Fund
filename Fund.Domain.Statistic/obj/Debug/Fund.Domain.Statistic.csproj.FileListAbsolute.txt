@@ -1,0 +1,14 @@
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Fund.Domain.Statistic.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Fund.Domain.Statistic.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\obj\Debug\Fund.Domain.Statistic.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\obj\Debug\Fund.Domain.Statistic.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic\obj\Debug\Fund.Domain.Statistic.csprojResolveAssemblyReference.cache

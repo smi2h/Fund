@@ -1,0 +1,80 @@
+﻿<UserControl x:Class="Fund.Wpf.UI.Views.SummaryInformationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="1000"
+             d:DesignWidth="1000"
+             mc:Ignorable="d">
+
+    <UserControl.Resources>
+        <Style x:Key="HeaderTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="16pt" />
+            <Setter Property="Margin" Value="5" />
+        </Style>
+
+        <Style x:Key="SubHeaderTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="14pt" />
+            <Setter Property="Margin" Value="5" />
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="5" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+    </UserControl.Resources>
+
+    <StackPanel Margin="10" VerticalAlignment="Center">
+        <TextBlock Style="{StaticResource HeaderTextBlockStyle}" Text="Fund information:" />
+
+        <TextBlock Style="{StaticResource SubHeaderTextBlockStyle}" Text="Equity" />
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalNumber:" />
+            <TextBlock Text="{Binding Statistic.EquityTotalNumber, StringFormat={}{0:n2}}" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalStockWeight:" />
+            <TextBlock Text="{Binding Statistic.EquityTotalStockWeight, StringFormat={}{0:n2}}" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalMarketValue:" />
+            <TextBlock Text="{Binding Statistic.EquityTotalMarketValue, StringFormat={}{0:n2}}" />
+        </StackPanel>
+
+        <TextBlock Style="{StaticResource SubHeaderTextBlockStyle}" Text="Bond" />
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalNumber:" />
+            <TextBlock Text="{Binding Statistic.BondTotalNumber}" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalStockWeight:" />
+            <TextBlock Text="{Binding Statistic.BondTotalStockWeight, StringFormat={}{0:n2}}" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalMarketValue:" />
+            <TextBlock Text="{Binding Statistic.BondTotalMarketValue, StringFormat={}{0:n2}}" />
+        </StackPanel>
+
+        <TextBlock Style="{StaticResource SubHeaderTextBlockStyle}" Text="Total" />
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalNumber:" />
+            <TextBlock Text="{Binding Statistic.AllTotalNumber}" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalStockWeight:" />
+            <TextBlock Text="{Binding Statistic.AllTotalStockWeight, StringFormat={}{0:n2}}" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="TotalMarketValue:" />
+            <TextBlock Text="{Binding Statistic.AllTotalMarketValue, StringFormat={}{0:n2}}" />
+        </StackPanel>
+
+    </StackPanel>
+</UserControl>

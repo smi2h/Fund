@@ -1,0 +1,11 @@
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\obj\Debug\Fund.Domain.Statistic.Impl.csprojResolveAssemblyReference.cache
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\bin\Debug\Fund.Domain.Statistic.Impl.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\bin\Debug\Fund.Domain.Statistic.Impl.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\bin\Debug\Fund.DataLayer.Stock.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\bin\Debug\Fund.Domain.Statistic.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\bin\Debug\Fund.DataLayer.Stock.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\bin\Debug\Fund.Domain.Statistic.pdb
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\obj\Debug\Fund.Domain.Statistic.Impl.dll
+C:\Fund\Fund.Wpf.UI\Fund.Domain.Statistic.Impl\obj\Debug\Fund.Domain.Statistic.Impl.pdb

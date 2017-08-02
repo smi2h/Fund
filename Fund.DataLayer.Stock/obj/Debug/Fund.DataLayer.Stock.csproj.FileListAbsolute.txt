@@ -1,0 +1,7 @@
+C:\Fund\Fund.Wpf.UI\Fund.DataLayer.Stock\bin\Debug\Fund.DataLayer.Stock.dll
+C:\Fund\Fund.Wpf.UI\Fund.DataLayer.Stock\bin\Debug\Fund.DataLayer.Stock.pdb
+C:\Fund\Fund.Wpf.UI\Fund.DataLayer.Stock\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Fund\Fund.Wpf.UI\Fund.DataLayer.Stock\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Fund\Fund.Wpf.UI\Fund.DataLayer.Stock\obj\Debug\Fund.DataLayer.Stock.csprojResolveAssemblyReference.cache
+C:\Fund\Fund.Wpf.UI\Fund.DataLayer.Stock\obj\Debug\Fund.DataLayer.Stock.dll
+C:\Fund\Fund.Wpf.UI\Fund.DataLayer.Stock\obj\Debug\Fund.DataLayer.Stock.pdb
